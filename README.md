@@ -1,10 +1,11 @@
 # Tet
-It's tetris, you know tetris.
+It's tetris, you know tetris.<br>
+Also it uses the [Super Rotation System](https://tetris.wiki/Super_Rotation_System).
 
 ## Keys
 
 Key   | Action
------ | :-----
+:---- | :-----
 X     | Rotates left
 C     | Rotates right
 →    | Moves right
